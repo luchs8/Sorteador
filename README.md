@@ -8,4 +8,11 @@
 <p>- CSS </p>
 <p>- JS </p>
 <p>esse é um projeto para aprender a fazer um sorteador</p>
+<br>
+
+<h3>Formato Desktop e Mobile</h3>
+<br>
+<br>
 <img src="https://github.com/luchs8/Sorteador/blob/main/assets/desktop%20novo.png">
+<br>
+<img src="https://github.com/luchs8/Sorteador/blob/main/assets/Mobile.png">
