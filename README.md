@@ -15,4 +15,5 @@
 <br>
 <img src="https://github.com/luchs8/Sorteador/blob/main/assets/desktop%20novo.png">
 <br>
+<br>
 <img src="https://github.com/luchs8/Sorteador/blob/main/assets/Mobile.png">
