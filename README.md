@@ -1,6 +1,6 @@
 <h1>Sorteador</h1>
 <br>
-<h2>projeto que aprendi no <a href="https://rodolfomori.com.br/devclub-comercial/ " target="_bank">DevClub</h2>
+<h2>projeto que aprendi no <a href="https://rodolfomori.com.br/devclub-comercial/ " target="_blank">DevClub</h2>
 <h2>tecnologias utilizadas</h2>
 <br>
 <br>
